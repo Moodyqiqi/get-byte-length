@@ -1,0 +1,22 @@
+{
+  "name": "get-byte-length",
+  "version": "1.0.0",
+  "description": "get byte length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moodyqiqi/get-byte-length.git"
+  },
+  "keywords": [
+    "byte"
+  ],
+  "author": "abel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moodyqiqi/get-byte-length/issues"
+  },
+  "homepage": "https://github.com/Moodyqiqi/get-byte-length#readme"
+}
